@@ -1,6 +1,7 @@
 import sys
 import pathlib
 import fitz
+# Please install pymupdf to use fitz
 
 # Get path of pdf.
 pdf_path = input("Please enter the path and file name of the pdf you want to convert to jpeg.\n")
